@@ -20,6 +20,15 @@ body {
     }
 }
 
+/* large desktop styles */
+@media screen and (min-width: 2000px) {
+    body {
+        width: 70%;
+        margin: auto;
+        font-size: 20px;
+    }
+}
+
 
 /*navbar edits*/
 .navbar{
